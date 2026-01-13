@@ -1,6 +1,8 @@
-Hey I'm Rudransh Saini
+# 🧑🏻‍💻Hey!! I'm Rudransh Saini 🚀
+
 # 💫 About Me:
 👾 I am a curious and detail-oriented individual who enjoys exploring ideas, building solutions, and learning through hands-on experience.<br>👾I have a natural interest in analytical thinking and logical reasoning, which drives my approach to problem-solving<br>👾Learning my way through ML, DS, and AI by asking questions, breaking down problems, and building things along the way to create meaningful solutions.<br>👾I believe that growth is strongest when curiosity and communication move forward together, a thought echoed in the writings of Anaïs Nin.
+
 
 
 ## 🔗 Socials:
@@ -13,7 +15,7 @@ Hey I'm Rudransh Saini
     <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white"/>
   </a> 
 
-# 🕸️ Tech Stack:
+## 🔗 Tech Stack:
 <h2> Languages</h2>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> &nbsp;
@@ -48,7 +50,7 @@ Hey I'm Rudransh Saini
 
 
 
-# 🕸️GitHub Stats:
+## 🕸️GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rudransh saini&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rudransh saini&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudransh saini&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
