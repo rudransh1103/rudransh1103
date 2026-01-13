@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/rudransh-saini-627636256">
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
     &nbsp;&nbsp;
-  </a>  Rudransh Saini       <a href="mailto:sainirudransh11@gmail.com">
+  </a>       <a href="mailto:sainirudransh11@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white"/>
   </a> 
 
