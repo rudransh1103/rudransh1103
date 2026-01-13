@@ -14,7 +14,7 @@
   </a> 
 
 # 🕸️ Tech Stack:
-### Languages
+## Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> &nbsp;
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/> &nbsp;
 </p>
-### Hosting 
+## Hosting 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/> &nbsp;
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/> &nbsp;
 </p>
-### Machine Learning Tools and Libraries
+## Machine Learning Tools and Libraries
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/> &nbsp;
