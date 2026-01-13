@@ -4,7 +4,13 @@
 
 
 ## 🕸️ Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)   Rudransh Saini     ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white) sainirudransh11@gmail.com 
+![LinkedIn]  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rudransh-saini-627636256">
+    <img src="(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) "/>
+  </a>  Rudransh Saini     ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)  <a href="mailto:sainirudransh11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white"/>
+  </a> 
 
 # 🕸️ Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ## 🌐 Connect with Me
