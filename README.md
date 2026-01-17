@@ -52,9 +52,6 @@
 
   <!-- profile logo -->
   <div style="background-color:black;color:white;padding:40px">
-    <a ><img src="https://img.shields.io/badge/Instagram-Instagram-ee2a7b" /></a>&emsp;
-    <a ><img src="https://img.shields.io/badge/Twitter-Twitter-blue" /></a>&emsp;
-    <a ><img src="https://img.shields.io/badge/YouTube-YouTube-c32136" /></a>&emsp;
     <a \><img src="https://img.shields.io/website?url=https%3A%2F%2Faoudumbar.netlify.app%2F" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=Aoudumber-Bade&label=Views&color=orange&style=flat" alt="Visitor Count" />&emsp;
