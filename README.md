@@ -28,9 +28,11 @@
 
  
   
- <h3 align="center">Cloud & Database Technologies</h3>
+ <h3 align="left">Cloud & Database Technologies</h3>
 
-<p align="center">
+<h3 align="left">Cloud & Database Technologies</h3>
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
        alt="Azure" width="60" height="60"/>
 
@@ -45,7 +47,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
        alt="Oracle" width="60" height="60"/>
-</p>
+
 
 </p>
 <h3> Machine Learning Tools and Libraries</h3>
