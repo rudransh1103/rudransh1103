@@ -27,7 +27,6 @@
 </p>
 
 <h3 align="left">Cloud & Database Technologies</h3>
-<h3 align="left">Cloud & Database Technologies</h3>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
