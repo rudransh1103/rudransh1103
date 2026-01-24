@@ -30,16 +30,16 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
-       alt="Azure" width="60" height="60"/><br/>
+       alt="Azure" width="60" height="60"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg"
-       alt="AWS" width="60" height="60"/><br/>
+       alt="AWS" width="60" height="60"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-       alt="MongoDB" width="60" height="60"/><br/>
+       alt="MongoDB" width="60" height="60"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-       alt="MySQL" width="60" height="60"/><br/>
+       alt="MySQL" width="60" height="60"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
        alt="Oracle" width="60" height="60"/>
