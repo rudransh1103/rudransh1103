@@ -26,17 +26,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="60" height="60" alt="R"/>
 </p>
 
-<h3 align="left">Cloud & Database Technologies</h3>
 
 
 
-### Cloud & Database Technologies
+
 
 <h3>Cloud & Databases</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
@@ -55,8 +54,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="60" height="60"/>
+ <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="60" height="60"/>
 </div>
 
