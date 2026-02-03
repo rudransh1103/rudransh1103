@@ -35,7 +35,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60"/>
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="60" height="60"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
@@ -59,6 +59,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="60" height="60"/>
 </div>
 
+<h3>Backend, APIs & Computer Vision</h3>
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/django/092E20" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/apache/D22128" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="60" height="60"/>
+</div>
 
 
 
