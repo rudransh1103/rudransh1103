@@ -78,7 +78,9 @@
 </p>
 
 
-</p>
+### Machine Learning & Data Stack
+![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg) ![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg) ![Scikit-learn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg) ![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg) ![PyTorch](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg) ![Keras](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg) ![Matplotlib](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg) ![MLflow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg) ![SciPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg) ![Plotly](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg)
+
   <!-- for beauty -->
   <div>&nbsp;</div>
 
